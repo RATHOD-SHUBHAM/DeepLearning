@@ -16,7 +16,7 @@ Deep learning (also known as deep structured learning) is part of machine learni
     Crossing a certain threshold(6 feet) can cause a violation.
 
 ## When to use Deep Learning or not over others?
-    1. Deep Learning out perform other techniques if the data size is large. But with small data size, traditional Machine Learning algorithms are preferable.
-    2. Deep Learning techniques need to have high end infrastructure to train in reasonable time.
-    3. When there is lack of domain understanding for feature introspection, Deep Learning techniques outshines others as you have to worry less about feature engineering.
-    4. Deep Learning really shines when it comes to complex problems such as image classification, natural language processing, and speech recognition.
+1. Deep Learning out perform other techniques if the data size is large. But with small data size, traditional Machine Learning algorithms are preferable.
+2. Deep Learning techniques need to have high end infrastructure to train in reasonable time.
+3. When there is lack of domain understanding for feature introspection, Deep Learning techniques outshines others as you have to worry less about feature engineering.
+4. Deep Learning really shines when it comes to complex problems such as image classification, natural language processing, and speech recognition.
