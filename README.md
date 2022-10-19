@@ -20,3 +20,8 @@ Deep learning (also known as deep structured learning) is part of machine learni
 2. Deep Learning techniques need to have high end infrastructure to train in reasonable time.
 3. When there is lack of domain understanding for feature introspection, Deep Learning techniques outshines others as you have to worry less about feature engineering.
 4. Deep Learning really shines when it comes to complex problems such as image classification, natural language processing, and speech recognition.
+
+
+### 3] Object Detection 🔎 Using YoloV6:
+    - To do object detection, I used the Yolov6 model.
+    
