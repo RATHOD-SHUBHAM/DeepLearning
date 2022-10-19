@@ -24,4 +24,8 @@ Deep learning (also known as deep structured learning) is part of machine learni
 
 ### 3] Object Detection 🔎 Using YoloV6:
     - To do object detection, I used the Yolov6 model.
+    Object Detection can be performed on:
+     * Image.
+     * Video.
+     * WebCam.
     
