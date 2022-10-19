@@ -20,3 +20,41 @@ The automotive industry is experiencing a paradigm shift from human-driven autom
 13. Detect object corners with Harris.<br />
 14. Classify data with machine learning techniques including regression, decision trees, Naive Bayes, and SVM.<br />
 15. Classify data with artificial neural networks and deep learning.<br />
+
+
+## Sections:
+* Section 4: Computer Vision. 
+  - detecting lane lines,
+  - convolution (sharpening, blurring) edge detection.
+  <br />
+* Section 5: Computer Vision.
+  - image transformation,
+  - region of interest masking,
+  - hough transform theory (feature extraction) real-time lane line detection.
+  <br />
+* Section 6: Computer Vision.
+  - template matching,
+  - corner detection,
+  - image pyramiding feature matching,
+  - sift, surf, fast, orb,
+  - histogram of oriented gradients (hog) camera calibration, distortion correction.
+  <br />
+* Section 7: Machine learning. 
+  - cross-validation,
+  - linear & logistic regression decision trees.
+  <br />
+* Section 8: Machine learning.  
+  - naïve bayes,
+  - support vector machines.
+  <br />
+* Section 9: Artificial neural networks.
+  - perceptrons,
+  - multi-layer perceptrons activation and error functions
+  - gradient descent,
+  - backpropagation
+  <br />
+* Section 10: Deep learning Tensorflow.
+  - dropout regularization
+  <br />
+* Section 11: Deep learning Tensorflow.
+  - convolutional neural networks LeNET CNN’s (classify traffic signs!).
