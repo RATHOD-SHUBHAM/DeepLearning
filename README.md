@@ -66,5 +66,28 @@ Steps:
 
 ![Black_image_lane_c](https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/33bc02d9-0d28-454d-828a-d882ac33c04c)
 
+---
 
-    
+### 6] Face Detection On Browser Using TensorFlow.js
+
+Check out the result [here](https://youtu.be/O62iUMlP_Jc).
+
+With TensorFlow.js we can develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
+
+## How it Works
+  1. Run existing models.
+  2. Retrain existing models.
+  3. Develop ML with JS.
+
+## Model Used
+ * Simple Face Detection: Detects faces in. images using a 'Single Shot Detector' Architecture with a custom encoder (BlazeFace).
+
+---
+
+### 7] Semantic Image Segmentation.
+
+Most of the time, I just experimented with object detection and recognition, which creates a bounding box around specific detected objects in an image. 
+However, I later came across another technique that can give a precise outline of an object that has been detected in an image. 
+This technique is known as Image Segmentation.
+
+<img width="1405" alt="op" src="https://user-images.githubusercontent.com/58945964/175862689-8c65a87d-ab32-43f4-a6fa-5b35cda072e2.png">
