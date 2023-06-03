@@ -30,3 +30,8 @@ There are four layered concepts we should understand in Convolutional Neural Net
 
 ---
 ![2-13](https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/012b4506-2325-4b3a-ae36-547d770c273e)
+
+---
+The automatic skin disorders classification can help people in identifying skin disorders that occur and immediately consult with medical personnel to get appropriate medical treatment. 
+
+![category_samples](https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/528ac821-ea83-48b5-92af-ce6f2bc25119)
