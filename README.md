@@ -91,3 +91,9 @@ However, I later came across another technique that can give a precise outline o
 This technique is known as Image Segmentation.
 
 <img width="1405" alt="op" src="https://user-images.githubusercontent.com/58945964/175862689-8c65a87d-ab32-43f4-a6fa-5b35cda072e2.png">
+
+---
+
+### 8] CNN - Skin Cancer Detection
+
+The automatic skin disorders classification can help people in identifying skin disorders that occur and immediately consult with medical personnel to get appropriate medical treatment. 
