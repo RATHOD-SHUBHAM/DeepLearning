@@ -29,4 +29,4 @@ There are four layered concepts we should understand in Convolutional Neural Net
 4. Full Connectedness (Fully Connected Layer).
 
 ---
-
+![2-13](https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/012b4506-2325-4b3a-ae36-547d770c273e)
