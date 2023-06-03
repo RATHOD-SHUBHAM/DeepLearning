@@ -97,3 +97,5 @@ This technique is known as Image Segmentation.
 ### 8] CNN - Skin Cancer Detection
 
 The automatic skin disorders classification can help people in identifying skin disorders that occur and immediately consult with medical personnel to get appropriate medical treatment. 
+
+![2-13](https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/dea2cf5d-ff07-4788-b9d1-8a7308dc3fbd)
