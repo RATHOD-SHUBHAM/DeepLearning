@@ -9,3 +9,6 @@ SAHI is an acronym that stands for Slicing Aided Hyper Inference.\
 SAHI uses the power of slicing-aided inference and fine-tuning approaches to revolutionize object detection.\
 In this section, I've compared small object detection results obtained without and with SAHI.\
 SAHI delivers a game-changing slicing-assisted fine-tuning approach that raises detection accuracy to unprecedented heights.
+
+
+<img width="455" alt="Screenshot 2023-09-09 at 8 27 39 PM" src="https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/cad70356-3256-402e-a1fe-199f41f1c570">
