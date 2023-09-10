@@ -1,7 +1,6 @@
 # SAHI + YOLOV8
 
 Object identification is by far the most important use of computer vision.\
-
 However, identifying small objects and inference on large images remain significant challenges.\
 The task of recognizing and localizing objects that are small in size inside digital images is referred to as small object detection.\
 I've used the SAHI library in conjunction with the YOLOv8 model to produce outstanding enhancements in object recognition results.
