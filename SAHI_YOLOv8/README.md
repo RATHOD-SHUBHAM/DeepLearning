@@ -12,3 +12,14 @@ SAHI delivers a game-changing slicing-assisted fine-tuning approach that raises 
 
 
 <img width="455" alt="Screenshot 2023-09-09 at 8 27 39 PM" src="https://github.com/RATHOD-SHUBHAM/DeepLearning/assets/58945964/cad70356-3256-402e-a1fe-199f41f1c570">
+
+---
+Create a VENV with python 3.8
+Steps to run the project:
+1] Clone the Repository
+2] Install the requirements:
+  * pip install -U torch sahi ultralytics
+  * pip install streamlit
+3] Run the app: streamlit run app.py
+
+---
